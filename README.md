@@ -1,6 +1,5 @@
 # Voice-Based-Virtual-Assistant-using-python
-
-![image](https://github.com/tanushreego/Voice-Based-Virtual-Assistant-using-python/assets/73837073/273726cc-eb24-4e56-a67f-abc1de5ccfa2)
+![image](https://github.com/tanushreego/Voice-Based-Virtual-Assistant-using-python/assets/73837073/015a446e-52ac-4b74-aa8c-3f3cacda1203)
 
 
 The objective of this project is to implement a virtual personal assistant using Python that is cost-effective and secure.

@@ -11,7 +11,7 @@ main.py: This is the driver module of the project.
 utils.py and.env: These modules are the configuration modules that store the information required for the bot.
 movie_database.py: It is a small database that contains the details of demo movies for the movie booking feature of the virtual assistant.
 
-##SOME BASIC FUNCTIONALITIES
+## SOME BASIC FUNCTIONALITIES
 1. Open any applications.
 2. Close any applications.
 3. Tell Time
